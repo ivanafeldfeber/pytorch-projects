@@ -1,5 +1,5 @@
 # pytorch-projects
-All the projects I submitted to the Deep Learning Nanodegree at Udacity
+In this branch you can find all the projects I submitted to the Deep Learning Nanodegree at Udacity
 
 1. Bike-sharing patterns using only fully connected neural networks
 2. Dogbreed predictor using CNNs
